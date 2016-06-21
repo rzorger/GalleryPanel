@@ -1,8 +1,22 @@
 # GalleryPanel
 A plugin for ImageJ/Fiji that allows multiple images to be displayed on the same canvas.
 
+To install Gallery Panel:
+
+These files go in the plugins folder:
+bc_ontop.java
+bc_ontop.class
+Gallery_Panel300.jar
+
+This file goes in the Macros folder:
+StartupMacros.fiji.ijm
+
+This file goes in the /Macros/AutoRun folder:
+AutoRun.ijm
 
 Create grayscale tool for toolbar:
+This section describes how to modify the ImageJ toolbar.
+
 Edit StartupMacros.fiji.ijm or IDSearchMacro.ijm to Fiji/macros to include:
 
 macro "Convert Image to 32 bit Grayscale Tool - Cg00-F115g-C0g0-F715g-C00g-Fb15g-Cfff-F7958-C333-F1958-C999-Fb958-Cgg0-L19f9" {
