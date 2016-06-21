@@ -1,2 +1,2 @@
- run("Gallery Panel322");
+ run("Gallery Panel");
  eval("script", "IJ.getInstance().setAlwaysOnTop(true)");
