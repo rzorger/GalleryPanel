@@ -14,7 +14,10 @@ StartupMacros.fiji.ijm
 This file goes in the /Macros/AutoRun folder:
 AutoRun.ijm
 
+
+
 Create grayscale tool for toolbar:
+
 This section describes how to modify the ImageJ toolbar.
 
 Edit StartupMacros.fiji.ijm or IDSearchMacro.ijm to Fiji/macros to include:
